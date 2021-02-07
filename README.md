@@ -1,5 +1,6 @@
 # HackingInTheHomelab
 Resources for all things related to hacking in the homelab.
+Related personal projects can be seen [here](https://wwww.archcloudlabs.com/projects).
 
 ## Homelab Virtualization & Infrastrucre Management Resources
 ### Infrastructure - Local
